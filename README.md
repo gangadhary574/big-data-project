@@ -42,6 +42,16 @@ Resilient distributed datasets can be created in two ways.
      |   data.foreach(p.println)
      | } ```
      
-  ### Transfer the results to an excel file and visualize them.
+### Step 7: Transfer the results to an excel file and visualize them.
   
-  
+![results](results.PNG)
+
+
+
+### Reference
+
+1. Spark data set-up on windows --> https://github.com/denisecase/setup-spark
+
+1. Creating and Managing RDD ---> https://spark.apache.org/docs/latest/rdd-programming-guide.html
+
+1. File handling ---> https://stackoverflow.com/questions/4604237/how-to-write-to-a-file-in-scala
